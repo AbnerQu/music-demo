@@ -2,13 +2,13 @@
 
 ## 主要用到的技术：
 
- * 使用maven进行项目构建
- * 使用Springboot+Mybatis搭建整个系统
- * 使用ajax连接前后端
- * 使用框架Bootstrap、JQuery开发前端界面 
- * 使用MySQL存储歌曲链接和图片链接
- * 使用cookies存储用户id等
- * 使用阿里云OSS存储歌曲的大部分mp3文件
+ * Maven
+ * Springboot + Mybatis
+ * Ajax
+ * Bootstrap、Jquery 
+ * MySQL
+ * cookies
+ * 阿里云OSS
  
  ## 主要分为六个模块
  
@@ -22,3 +22,33 @@
  
  1. 将sql文件在MySQL运行生成表和数据
  2. 最后直接启动SsApplication类后访问http://localhost:8082/index.html 就可以进入本系统！
+ 3. github地址: https://github.com/AbnerQu/music-demo.git
+ 
+ ## 功能展示
+  * 主页
+  
+  ![image](images/主页.jpg)
+  
+  * 登录注册
+  
+  ![image](images/登录注册.png)
+  
+  * 播放页面
+  
+  ![image](images/播放页面.png)
+  
+  * 收藏
+  
+  ![image](images/收藏.png)
+  
+  * 模糊搜索
+  
+  ![image](images/搜索.png)
+  
+  * 删除
+  
+  ![image](images/删除.png)
+  
+  * 炫酷动画
+  
+  ![image](images/炫酷动画.png)
