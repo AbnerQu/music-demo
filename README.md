@@ -24,31 +24,4 @@
  2. 最后直接启动SsApplication类后访问http://localhost:8082/index.html 就可以进入本系统！
  3. github地址: https://github.com/AbnerQu/music-demo.git
  
- ## 功能展示
-  * 主页
-  
-  ![image](images/主页.jpg)
-  
-  * 登录注册
-  
-  ![image](images/登录注册.png)
-  
-  * 播放页面
-  
-  ![image](images/播放页面.png)
-  
-  * 收藏
-  
-  ![image](images/收藏.png)
-  
-  * 模糊搜索
-  
-  ![image](images/搜索.png)
-  
-  * 删除
-  
-  ![image](images/删除.png)
-  
-  * 炫酷动画
-  
-  ![image](images/炫酷动画.png)
+ 
