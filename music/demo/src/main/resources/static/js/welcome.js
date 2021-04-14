@@ -1,4 +1,4 @@
-//欢迎信息
+// Welcome message
 
 layer.config({
     extend: ['extend/layer.ext.js', 'skin/moon/style.css'],
